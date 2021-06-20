@@ -56,6 +56,10 @@ img{
 
 #Portfolio{
     text-align: center;
+    content: "";
+    clear: both;
+    display: table;
+    
 }
 #contact{
     color:white;
@@ -74,7 +78,7 @@ img{
     background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; 
 }
 .contact {
-    background-image: url("/meta/image/oldcomp.jpg");
+    background-image: url("/assets/background.jpng/c_image.jpg");
     height: 100vh;
     margin: 15% 0 0 0;
     background-position: center;
