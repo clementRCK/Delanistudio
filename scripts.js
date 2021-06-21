@@ -31,7 +31,6 @@ $(document).ready(function () {
         $("#works1-p").hide();
     });
 });
-
 $(document).ready(function () {
     $("#works2-p").hide();
     $("#work2").mouseover(function () {
@@ -43,7 +42,7 @@ $(document).ready(function () {
 $(document).ready(function () {
     $("#works3-p").hide();
     $("#work3").mouseover(function () {
-        $("#works3-p").show()
+        $("#works3-p").show();
     }).mouseout(function () {
         $("#works3-p").hide();
     });
