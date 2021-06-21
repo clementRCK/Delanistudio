@@ -83,7 +83,7 @@ img{
     background-size: cover;
     position: relative;
   }
-  
+
   .validate{
     right: 0;
     margin: -150px;
@@ -237,6 +237,7 @@ textarea {
         height: 100vh;
     }
 }
+
 .footer-link {
     color: rgb(255, 136, 0);
     font-weight: 700;
