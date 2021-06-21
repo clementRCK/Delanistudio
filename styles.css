@@ -56,8 +56,8 @@ img{
 
 #Portfolio{
     text-align: center;
-    
 }
+
 #contact{
     color:white;
     text-align:center;
@@ -148,8 +148,8 @@ textarea {
 .subscribe-appear {
     position: relative;
     left: 40%;
-    animation: grow .7s linear infinite;
-    transition: .7s linear 0s;
+    animation: grow .15s linear infinite;
+    transition: .15s linear 0s;
 }
 
 @media(max-width:280px) {
