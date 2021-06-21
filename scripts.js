@@ -31,6 +31,7 @@ $(document).ready(function () {
         $("#works1-p").hide();
     });
 });
+
 $(document).ready(function () {
     $("#works2-p").hide();
     $("#work2").mouseover(function () {
