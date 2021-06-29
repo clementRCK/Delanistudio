@@ -22,7 +22,7 @@ img{
         font-size: 20px;
     }
 .background{
-        background-image: url("./assets/background.jpng/h_img.jpg");
+        background-image: url("/assets/background.jpng/h_img.jpg");
         background-position: center;
         padding: 10%;
 		width: 100%;
@@ -34,7 +34,7 @@ img{
 }
 
 .service-image {
-    background-image:url("./assets/background.jpng/s_image.jpg");
+    background-image:url("/assets/background.jpng/s_image.jpg");
     background-repeat: no-repeat;
     padding: 15%;
     text-align: center;
